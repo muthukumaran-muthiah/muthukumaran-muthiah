@@ -1,66 +1,94 @@
-# Hello, World! 🌍
+<div align="center">
 
-I'm Muthukumaran Muthiah, a Full Stack Developer with a passion for creating amazing software applications. I've been coding since December 2018 and have a diverse skill set that includes:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Muthukumaran Muthiah — Technical Lead and full-stack developer in Chennai, India, focused on microservices, event sourcing, CQRS, DDD and TDD. ASCII-art portrait beside a terminal-style profile summary.">
+</picture>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3279c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Mezzio](https://img.shields.io/badge/Mezzio-FF9900?style=for-the-badge&logo=mezzio&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![EventStoreDB](https://img.shields.io/badge/EventStoreDB-5AB552?style=for-the-badge&logo=eventstore&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+</div>
 
-## About Me 🧑‍💻
+### 👋 Hi, I'm Muthukumaran
 
-- 💼 Currently working as a Software Engineer.
-- 🌱 Always learning and exploring new technologies.
-- ✍️ I write poems.
-- 🎓 I completed my B.Tech in Mechanical Engineering from Kalasalingam University, currently known as KARE.
-- 🏡 I am from Theni.
-- ☕ I like coffee.
-- 🌙 I usually sleep late.
+Technical Lead with **7.5+ years** of hands-on software development across **Educational Technology** and **Clinical Trial Management Systems**. I work end to end, from requirements gathering, system design and architecture to development, testing and deployment, and I lead small, high-performing teams across diverse stacks. I care about scalable, maintainable, high-quality software and I'm passionate about open-source technologies, especially **PHP, JavaScript and Python**.
 
-## Work Experience 💼
+---
 
-- 🏢 **Qedtek**
-  - ![Dec 2018](https://img.shields.io/badge/Dec_2018-FF5733?style=for-the-badge) - ![Jan 2020](https://img.shields.io/badge/Jan_2020-FF5733?style=for-the-badge) ![Programmer Analyst Trainee](https://img.shields.io/badge/🖥️-Programmer_Analyst_Trainee-FF5733?style=for-the-badge) 
-  - ![Jan 2020](https://img.shields.io/badge/Jan_2020-FF5733?style=for-the-badge) - ![Jan 2022](https://img.shields.io/badge/Jan_2022-FF5733?style=for-the-badge) ![Programmer Analyst](https://img.shields.io/badge/💼-Programmer_Analyst-FF5733?style=for-the-badge) 
-  - ![Jan 2022](https://img.shields.io/badge/Jan_2022-FF5733?style=for-the-badge) - ![Dec 2022](https://img.shields.io/badge/Dec_2022-FF5733?style=for-the-badge) ![System Analyst](https://img.shields.io/badge/🖥️-System_Analyst-FF5733?style=for-the-badge)
-- 🏢 **Learnship**
-  - ![Dec 2022](https://img.shields.io/badge/Dec_2022-FF5733?style=for-the-badge) - ![Present](https://img.shields.io/badge/Present-FF5733?style=for-the-badge) ![Senior Software Engineer](https://img.shields.io/badge/💼-Senior_Software_Engineer-FF5733?style=for-the-badge) 
+### 🧭 Focus
 
-## Fun Facts 🎉
+- **Architecture:** microservices, event-driven architecture, Event Sourcing & CQRS, Domain-Driven Design
+- **Quality:** Test-Driven Development, code reviews, mentoring
+- **Delivery:** Agile/Scrum, Kubernetes & HELM deployments, CI/CD
 
-- 😄 I love coding and solving complex problems.
-- 🚀 I'm a big fan of space exploration.
-- 🎮 In my free time, I enjoy playing video games.
+---
 
-## Let's Connect! 🤝
+### 💼 Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthukumaran-m)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muthukumaran-muthiah)
+| Role | Company | Period |
+|---|---|---|
+| **Junior Technical Lead** | RAVSoft Solutions Pvt. Ltd., Chennai | Feb 2026 – Present |
+| **Senior Software Engineer** | Learnship Technologies Pvt. Ltd., Chennai | Dec 2022 – Jan 2026 |
+| **System Analyst** | QEDTEK IN Pvt. Ltd., Chennai | Dec 2018 – Dec 2022 |
 
-![Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRvemZ3N3IwMTA3c3kxNmpmenFlZWVkcndoYnJrbnlrdzFrOTh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+- Code reviews across 6 repositories and mentoring 2 junior engineers at RAVSoft.
+- Migrated ~200 APIs to Laminas Mezzio in two months with no downtime, alongside the move to Kubernetes and HELM.
+- Moved four services (TMS, Fulfillment, Licensing, Enablement API) onto Kubernetes with HELM.
+- Introduced Event Sourcing and CQRS on the Licensing service, ran the proof of concept and trained the team.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Study Collaboration System (SCS)** | Microservices platform: administration, study management, mailing, integrations, gateway and auth | Ruby on Rails · Vue.js · React · PostgreSQL · Redis |
+| **Trainer Management System (TMS)** | Trainer–learner mapping, scheduling, billing and reporting; AWS Cognito SSO; deployed on EKS | PHP (Symfony) · Angular · Node.js · MySQL · Kafka · K8s · HELM |
+| **Licensing** | Learner onboarding and license provisioning built on Event Sourcing + CQRS | Node.js · PostgreSQL · EventStoreDB · HELM · K8s |
+| **Fulfillment Service** | Course purchases, payments, Salesforce order sync; RabbitMQ with DLQ | Node.js · React · MongoDB · Redis · AWS Lambda |
+| **Enablement API** | Core registration/login API; led the ~200-API migration to Mezzio | PHP · Laminas Mezzio · MySQL · MSSQL · K8s |
+| **File Management System** | Cloud file sharing for web, Android and iOS, built from scratch | Vue.js · Quasar · Node.js · DynamoDB |
+
+<details>
+<summary>Earlier projects</summary>
+
+Corporate Website (Angular, Node.js, bilingual JA/EN) · Tabetan · Migration Assistant · Palmo · Pest Control System · BPM Tool (Ranabase) · CRM Tool · Application Tracking API (Java, Kintone)
+
+</details>
+
+---
+
+### 🛠️ Engineering Stack
+
+**Backend** — PHP · Laravel · Symfony · Laminas Mezzio · Node.js · Express · Ruby on Rails · Python
+**Frontend** — JavaScript · TypeScript · Vue.js · Quasar · Angular · React · HTML · CSS
+**Data** — PostgreSQL · MySQL · MSSQL · MongoDB · DynamoDB · EventStoreDB · Redis · Memcached
+**Messaging** — Kafka (StreamNative) · RabbitMQ
+**Cloud & DevOps** — AWS (EKS, Lambda, Cognito, SDK) · Kubernetes · HELM · Terraform · GitHub Actions · Bitbucket Pipelines · Datadog
+**Tooling** — Git · GitHub · Bitbucket · JIRA
+
+---
+
+### 🏆 Recognition & Learning
+
+- **Shining Star**, Learnship (2024) — outstanding contribution and performance in development
+- **Newbie Star**, Learnship (2023) — quick learning, adaptability and timely delivery
+- Certifications: Docker for the Absolute Beginner (Udemy) · Angular (2+) Basic · Laravel Advanced · HTML/CSS Basic (Cutshort) · Full Stack Technologies (JSpiders)
+- B.Tech, Mechanical Engineering — Kalasalingam University, 2017
+- Languages: English · Tamil · Japanese
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muthukumaran-muthiah&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukumaran-muthiah&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+</div>
+
+---
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muthukumaran--m-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthukumaran-m)
+[![GitHub](https://img.shields.io/badge/GitHub-muthukumaran--muthiah-181717?style=flat&logo=github&logoColor=white)](https://github.com/muthukumaran-muthiah)
+[![Email](https://img.shields.io/badge/Email-kumaranpassion2work%40outlook.in-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:kumaranpassion2work@outlook.in)
