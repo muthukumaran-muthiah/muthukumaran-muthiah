@@ -24,13 +24,13 @@ Technical Lead with **7.5+ years** of hands-on software development across **Edu
 
 ### 💼 Experience
 
-| Role | Company | Period |
-|---|---|---|
-| **Junior Technical Lead** | RAVSoft Solutions Pvt. Ltd., Chennai | Feb 2026 – Present |
-| **Senior Software Engineer** | Learnship Technologies Pvt. Ltd., Chennai | Dec 2022 – Jan 2026 |
-| **System Analyst** | QEDTEK IN Pvt. Ltd., Chennai | Dec 2018 – Dec 2022 |
+| Role | Period |
+|---|---|
+| **Junior Technical Lead** | Feb 2026 – Present |
+| **Senior Software Engineer** | Dec 2022 – Jan 2026 |
+| **System Analyst** | Dec 2018 – Dec 2022 |
 
-- Code reviews across 6 repositories and mentoring 2 junior engineers at RAVSoft.
+- Code reviews across 6 repositories and mentoring 2 junior engineers.
 - Migrated ~200 APIs to Laminas Mezzio in two months with no downtime, alongside the move to Kubernetes and HELM.
 - Moved four services (TMS, Fulfillment, Licensing, Enablement API) onto Kubernetes with HELM.
 - Introduced Event Sourcing and CQRS on the Licensing service, ran the proof of concept and trained the team.
@@ -70,20 +70,11 @@ Corporate Website (Angular, Node.js, bilingual JA/EN) · Tabetan · Migration As
 
 ### 🏆 Recognition & Learning
 
-- **Shining Star**, Learnship (2024) — outstanding contribution and performance in development
-- **Newbie Star**, Learnship (2023) — quick learning, adaptability and timely delivery
+- **Shining Star** award (2024) — outstanding contribution and performance in development
+- **Newbie Star** award (2023) — quick learning, adaptability and timely delivery
 - Certifications: Docker for the Absolute Beginner (Udemy) · Angular (2+) Basic · Laravel Advanced · HTML/CSS Basic (Cutshort) · Full Stack Technologies (JSpiders)
 - B.Tech, Mechanical Engineering — Kalasalingam University, 2017
 - Languages: English · Tamil · Japanese
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muthukumaran-muthiah&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukumaran-muthiah&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</div>
 
 ---
 
